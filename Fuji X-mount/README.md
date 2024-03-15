@@ -1,4 +1,4 @@
-# Lot no. 015 | Lomo LC-A Fuji X-Mount
+# Lot no. 016 | Lomo LC-A Fuji X-Mount
 
 ![productPhoto001](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomoLCA%20(10).jpg)
 ![productPhoto002](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomoLCA%20(11).jpg)
