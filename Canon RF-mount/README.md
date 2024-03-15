@@ -1,4 +1,4 @@
-# Lot no. 015 | Lomo LC-A Canon RF-Mount
+# Lot no. 016 | Lomo LC-A Canon RF-Mount
 
 ![productPhoto001](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomo_LCA_canonRF_1.jpg)
 ![productPhoto002](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomo_LCA_canonRF_2.jpg)
