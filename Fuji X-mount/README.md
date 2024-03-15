@@ -1,9 +1,9 @@
 # Lot no. 015 | Lomo LC-A Fuji X-Mount
 
-![productPhoto001](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomo_LCA%20(10).jpg)
-![productPhoto002](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomo_LCA%20(11).jpg)
-![productPhoto003](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomo_LCA%20(12).jpg)
-![productPhoto004](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomo_LCA%20(13).jpg)
+![productPhoto001](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomoLCA%20(10).jpg)
+![productPhoto002](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomoLCA%20(11).jpg)
+![productPhoto003](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomoLCA%20(12).jpg)
+![productPhoto004](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomoLCA%20(13).jpg)
 
 ### What you'll need:
 - 6x M1.6 x 5mm pan head screws (PETG) or self-tappin screws (ABS or PETG)
