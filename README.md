@@ -15,6 +15,10 @@
 ### How to use this Repo:
 Download the Main Housing and then the mount you have. You can pick up <a href="https://github.com/Archive-663/lensMounts" target='_blank'>rear lens caps here.</a>
 
+### Accompanying video:
+<a href='https://www.youtube.com/watch?v=sT1oIzzUE1g' target='_blank'>003 / / the one where it feels like I'm going in circles every day forever and there's no escape</a>
+
+
 ### Background Story:
 I always liked the camera body of the Lomo LC-A and I didn't enjoy how expensive the Lomography Minitar lens was. I wanted to replicate the experience of shooting with the LC-A with sliding lens cover, and lever acuated aperture and focus. I picked up a lens assembly from a broken LC-A and started working on translating the LC-A's sliding lens cover and once I figured that out I applied the same assembly to the aperture as space was limited. I could have easily made an iris but there was not enough room to allow for multiple mounts.
 
