@@ -1,7 +1,7 @@
 # Lot no. 015 | Lomo LC-A Main Rehousing
 
-![productPhoto001](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomo_LCA%20(1).jpg)
-![productPhoto002](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomo_LCA%20(2).jpg)
+![productPhoto001](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomoLCA%20(1).jpg)
+![productPhoto002](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomoLCA%20(2).jpg)
 ![productPhoto003](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomo_LCA_assembly_1.jpg)
 ![productPhoto004](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomo_LCA_assembly_2.jpg)
 ![productPhoto005](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomo_LCA_assembly_3.jpg)
