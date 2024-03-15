@@ -1,4 +1,4 @@
-# Lot no. 015 | A rehousing Lomo LC-A 32mm Minitar lens for mirrorless
+# Lot no. 016 | A rehousing Lomo LC-A 32mm Minitar lens for mirrorless
 
 ![productPhoto001](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomoLCA%20(1).jpg)
 ![productPhoto002](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomoLCA%20(3).jpg)
