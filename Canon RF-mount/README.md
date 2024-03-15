@@ -25,6 +25,8 @@ Drill holes to their correct tap size before tapping.
 - M1.6 requires M1.4 bore followed by an M1.6 tap.
 - M1.8 or M2 bore for screw holes that aren't tapped.
 
+- Specifically for the Canon RF mount you need to replace the 'lensBase_Mount' with the 'canonRF_mount'
+
 Test fit before assembling. Will need to file parts to allow free movement. You may need to drill out the original mounting holes on the Minitar lens assembly for the m1.6 screws to fit. 
 
 Lightly grease the inside of the mount cap.
