@@ -1,7 +1,7 @@
 # Lot no. 015 | Lomo LC-A Nikon Z-Mount
 
-![productPhoto001](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomo_LCA%20(3).jpg)
-![productPhoto002](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomo_LCA%20(4).jpg)
+![productPhoto001](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomoLCA%20(3).jpg)
+![productPhoto002](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomoLCA%20(4).jpg)
 
 ### What you'll need:
 - 12x M1.6 x 5mm pan head screws (PETG) or self-tappin screws (ABS or PETG)
