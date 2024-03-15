@@ -1,7 +1,7 @@
 # Lot no. 015 | Lomo LC-A Sony E-Mount
 
-![productPhoto001](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomo_LCA%20(8).jpg)
-![productPhoto002](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomo_LCA%20(9).jpg)
+![productPhoto001](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomoLCA%20(8).jpg)
+![productPhoto002](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomoLCA%20(9).jpg)
 
 ### What you'll need:
 - 6x M1.6 x 5mm pan head screws (PETG) or self-tappin screws (ABS or PETG)
