@@ -1,4 +1,4 @@
-# Lot no. 015 | Lomo LC-A Main Rehousing
+# Lot no. 016 | Lomo LC-A Main Rehousing
 
 ![productPhoto001](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomoLCA%20(1).jpg)
 ![productPhoto002](https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/PHOTO/PRODUCT/lomoLCA%20(2).jpg)
